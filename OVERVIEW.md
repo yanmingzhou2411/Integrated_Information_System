@@ -1,32 +1,27 @@
-# data-science-notebook
+# Integrated Information System
 
-This repository contains my learning notes on:
+Long-term repository for knowledge management, learning, research, and project development.
 
-- Python
+## Structure
+
+### Strict Saved Notes
+Verified and intentionally archived knowledge.
+
+Areas include:
+
+- Mathematics
 - Statistics
-- Machine Learning
-- Econometrics
-- Data Analysis
+- Economics
+- Finance
+- Programming
+- Data Analytics
+- Information Systems
 
-## Topics
+### Daily Discussion Notes
+Discussion records, temporary notes, and developing ideas.
 
-### Python
-- Variables
-- Data structures
-- Functions
+### Learning Plan
+Long-term learning roadmap and execution plans.
 
-### Statistics
-- Probability
-- Hypothesis testing
-- Regression
-
-### Machine Learning
-- Linear regression
-- Logistic regression
-
-### Econometrics
-- OLS
-- Panel data models
-
-### Notebooks
-Examples of data analysis using Python.
+### Projects
+Applied projects, experiments, and implementations.
